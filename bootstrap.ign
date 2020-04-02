@@ -3,7 +3,7 @@
     "config": {
       "append": [
         {
-          "source": "http://49.50.39.153:8989/ignitions/bootstrap.ign',
+          "source": "http://****:8989/ignitions/bootstrap.ign',
           "verification": {}
         }
       ]
